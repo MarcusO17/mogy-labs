@@ -1,2 +1,1 @@
 # mogy-labs
-Labs a
